@@ -1,0 +1,18 @@
+{
+  "persons": [
+    {
+      "id": 2,
+      "name": "tomas",
+      "lastName": " Alberto",
+      "dni": "41746338",
+      "city": "mar del plata"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "tom@gmail.com",
+      "password": "123"
+    }
+  ]
+}

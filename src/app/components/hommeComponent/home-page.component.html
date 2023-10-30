@@ -1,0 +1,6 @@
+<div >
+    <app-view-user [inputPersons]="persons" (personToEdit)="editPerson($event)" (personToDelete)="deletePerson($event)"></app-view-user>
+    <app-add-person (personToCreate)="createPerson($event)"></app-add-person>
+  </div>
+  
+  
